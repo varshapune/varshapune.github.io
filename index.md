@@ -5,6 +5,7 @@ List of stories
 - [बचना ऐ हसिनों](https://varshapune.github.io/bachna_ae_haseeno)
 - [भेदभाव](https://varshapune.github.io/bhedbhaw)
 - [भूत](https://varshapune.github.io/bhoot)
+- [चोर चोर](https://varshapune.github.io/chor_chor)
 - [देवाची क्रुपा](https://varshapune.github.io/devachi_krupa)
 - [घटना](https://varshapune.github.io/ghatna)
 - [सती](https://varshapune.github.io/sati)
