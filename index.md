@@ -8,6 +8,7 @@ List of stories
 - [चोर चोर](https://varshapune.github.io/chor_chor)
 - [देवाची क्रुपा](https://varshapune.github.io/devachi_krupa)
 - [घटना](https://varshapune.github.io/ghatna)
+- [रंग-बिरंगी](https://varshapune.github.io/rang_birangi)
 - [थप्पड](https://varshapune.github.io/thappad)
 - [सती](https://varshapune.github.io/sati)
 - [वास्तव](https://varshapune.github.io/vaastav)
