@@ -9,6 +9,7 @@ List of stories
 - [देवाची क्रुपा](https://varshapune.github.io/devachi_krupa)
 - [दुसरी बाजू](https://varshapune.github.io/dusri_baju)
 - [घटना](https://varshapune.github.io/ghatna)
+- [ओढ](https://varshapune.github.io/odh)
 - [मुँह मे राम](https://varshapune.github.io/muh_mein_raam)
 - [परत दूसरी बाजू](https://varshapune.github.io/parat_dusri_baju)
 - [रंग-बिरंगी](https://varshapune.github.io/rang_birangi)
